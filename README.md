@@ -62,4 +62,4 @@
         }
 
 ## 六、实验结果
-### !(a)[https://github.com/Chenlu-191/Forth-CL/blob/main/538404209260900750.jpg]
+   ! [i](https://github.com/Chenlu-191/Forth-CL/blob/main/538404209260900750.jpg)
